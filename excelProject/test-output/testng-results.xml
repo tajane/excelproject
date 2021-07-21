@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66" started-at="2021-03-30T17:19:11Z" finished-at="2021-03-30T17:19:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66" started-at="2021-03-30T17:19:11Z" finished-at="2021-03-30T17:19:11Z">
+      <class name="javapractice.Test2_Class">
+        <test-method status="PASS" signature="test3()" name="test3" duration-ms="26" started-at="2021-03-30T17:19:11Z" finished-at="2021-03-30T17:19:11Z">
+        </test-method>
+        <test-method status="PASS" signature="name()" name="name" duration-ms="4" started-at="2021-03-30T17:19:11Z" finished-at="2021-03-30T17:19:11Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
